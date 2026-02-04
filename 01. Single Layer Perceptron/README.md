@@ -1,0 +1,1 @@
+<h1 align="center">Single Layer Perceptron</h1>
